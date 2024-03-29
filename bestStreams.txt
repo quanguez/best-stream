@@ -1,0 +1,14 @@
+worlds
+wqs
+msi
+vcs
+pcs
+lck
+lpl
+lcs
+lec
+lck_challengers_league
+ljl-japan
+lla
+cblol-brazil
+lco
